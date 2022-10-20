@@ -1,20 +1,19 @@
-# bin/Debug/net6.0/1dz
-# bin/Debug/net6.0/1dz.dll
-# bin/Debug/net6.0/1dz.pdb
-# obj/1dz.csproj.nuget.dgspec.json
-# obj/1dz.csproj.nuget.g.props
-# obj/Debug/net6.0/1dz.GeneratedMSBuildEditorConfig.editorconfig
-# obj/Debug/net6.0/1dz.AssemblyInfoInputs.cache
-# obj/Debug/net6.0/1dz.assets.cache
-# obj/Debug/net6.0/1dz.csproj.AssemblyReference.cache
-# obj/Debug/net6.0/1dz.csproj.FileListAbsolute.txt
-# obj/Debug/net6.0/1dz.dll
-# obj/Debug/net6.0/1dz.genruntimeconfig.cache
-# obj/Debug/net6.0/1dz.pdb
-# obj/Debug/net6.0/apphost
-# obj/Debug/net6.0/ref/1dz.dll
-# obj/Debug/net6.0/refint/1dz.dll
-# obj/project.assets.json
-# obj/project.nuget.cache
-!**/*.csproj
-!**/*.cs
+obj/1dz.csproj.nuget.dgspec.json
+obj/1dz.csproj.nuget.g.props
+obj/Debug/net6.0/1dz.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/1dz.AssemblyInfoInputs.cache
+obj/Debug/net6.0/1dz.assets.cache
+obj/Debug/net6.0/1dz.csproj.AssemblyReference.cache
+obj/Debug/net6.0/1dz.csproj.FileListAbsolute.txt
+obj/Debug/net6.0/1dz.dll
+obj/Debug/net6.0/1dz.genruntimeconfig.cache
+obj/Debug/net6.0/1dz.pdb
+obj/Debug/net6.0/apphost
+obj/Debug/net6.0/ref/1dz.dll
+obj/Debug/net6.0/refint/1dz.dll
+obj/project.assets.json
+obj/project.nuget.cache
+!/**/*.csproj
+!/**/*.cs
+bin/
+test.txt
